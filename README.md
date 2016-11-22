@@ -1,7 +1,4 @@
-# chunkMergesort
-
-Computer Science 225,
+# Computer Science 225 UVIC
 Fall 2016,
-Algorithms and Data Structures,
-# csc225
-# csc225
+Algorithms and Data Structures
+
